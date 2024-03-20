@@ -1,0 +1,97 @@
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+}
+
+.Presentacion{
+}
+
+.Mision{
+    text-align: justify;  
+    font-family: Arial, sans-serif;
+}
+
+body{
+    padding-top: 20px; 
+    padding-right: 100px; 
+    padding-bottom: 20px; 
+    padding-left: 100px;
+}
+
+.header{
+   width: 100%;
+   height: auto;
+   background-color: rgb(215, 210, 231); 
+}
+
+.nav{
+    width: 50%;
+    height: 50px;
+    background-color: rgb(87, 163, 250); 
+    display: flex;
+    justify-content: space-evenlyc;
+    justify-items: baseline;
+    padding: 4px;
+}
+.navbar {
+    width: 50%;
+    height: 20px;
+    margin-right: 50px;
+    display: flex;
+    justify-content: space-evenlyc;
+    justify-items: baseline;
+    padding: 50px;
+}
+
+.main{
+  padding: 20% 20% 20% 20%;  
+}
+
+.canalesductos{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.domosindustrialesornamentacion{
+    width: 50%;
+    height: auto;
+    display: flex;
+
+    align-items: center;
+}
+
+.puertascampanas{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.standmateriales{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.proyectocotizaciones{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contacto{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flow-root;
+}
